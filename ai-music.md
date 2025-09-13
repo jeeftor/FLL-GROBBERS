@@ -61,46 +61,34 @@ Playing Song #3
 Very boring :)
 
 
-## Prompt1
+## Prompt 1
 
 So to start lets be a little lazy and just "try" to see if AI can build us something
 
-
 What are the key things you need to tell the AI:
 
-- What do you want it to make 
+- What do you want it to make (a program / a funciton / a function call / write some software)
 - What language (`Lego Spike Prime Micropython`)
 
+**Please store your prompt in your engineering notebook**
+
+## Prompt 2
+
+Lets refind the results from the 1st prompt. What additional information can we provdie to enhance the results:
+
+- Could we give more details on the `beep` function?
+- Perhaps the AI could use the Application Programing Interface: https://spike.legoeducation.com/essential/help/lls-help-python#lls-help-python-spm-hub-sound-func-beep and we could tell it to refer to that for details
+- Think about how you can enhance your prompt
+
+**Please store your prompt in your engineering notebook**
 
 
+## Prompt 3
 
+A long long time ago - before you were born there was something called "Flip Phones". In these olden days - we didn't have fancy music - we had very simple ringtones. They were just tones - and you know what else can make tons LEGO ROBOT. Maye we coudl ask the AI to convert one of these ringtones into Spike Prime format and it might sound good?
 
-
-We want to see if we can use AI to help us write the `prompt1()` function. This is going to be a very
-
-
-
-
-
-
-- "Can you make me a Lego Spike Prime python function that can play XXXXX"
-
-- Can you make me a Lego Spike Prime python function that can play XXXXX. Additionally this link has the information on the SOUND function: 
-https://spike.legoeducation.com/essential/help/lls-help-python#lls-help-python-spm-hub-sound-func-beep
-"
-
-
+You could find a webpage on this website for a song you like at:
 
 - https://ringtonesgalore.co.uk
 
-
-## Reference Materias
-
-An API is an Application Programing Interfaice - and this is the link to the "Sound Beep" function that we would have to use.
-
-https://spike.legoeducation.com/essential/help/lls-help-python#lls-help-python-spm-hub-sound-func-beep
-
-
-This is a RingTone for Indiana Jones:
-https://ringtonesgalore.co.uk/tones/movies/indiana-jones/indiana-jones/
-
+Then give the AI this and ask it to convert it. Often this is the best way to get sounds to work because somebody alerady figured out how to make the music.
