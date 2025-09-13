@@ -61,7 +61,20 @@ Playing Song #3
 Very boring :)
 
 
-## Lets go to the AI
+## Prompt1
+
+So to start lets be a little lazy and just "try" to see if AI can build us something
+
+
+What are the key things you need to tell the AI:
+
+- What do you want it to make 
+- What language (`Lego Spike Prime Micropython`)
+
+
+
+
+
 
 We want to see if we can use AI to help us write the `prompt1()` function. This is going to be a very
 
