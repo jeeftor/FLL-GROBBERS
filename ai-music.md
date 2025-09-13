@@ -1,13 +1,10 @@
-# AI Assistance
+# When should/can we use AI
 
 As we now live in the world of AI its important to know what its good for and what it's bad for. This tutorial will help you make a complicated song in Spike Prime witht he help of AI (maybe)
 
+Pick A song you like - maybe the "Darth Vader Theme" or "Indian Jones Theme" - and lets see if the AI can help us out. We will explore differnet ways to "prompt" and you will be abel to compare the results - understanding how you can give more information to hopefully get better results.
 
-##
-
-Pick A song you like - maybe the "Darth Vader Theme" or "Indian Jones Theme"
-
-And lets see if the AI can help us out. Make sure to record what and why you chose to use AI in your Engineering Notebook!
+**Make sure to record what and why you chose to use AI in your Engineering Notebook!**
 
 ## Prompts
 
@@ -62,6 +59,15 @@ Playing Song #3
 ```
 
 Very boring :)
+
+
+## Lets go to the AI
+
+We want to see if we can use AI to help us write the `prompt1()` function. This is going to be a very
+
+
+
+
 
 
 - "Can you make me a Lego Spike Prime python function that can play XXXXX"
